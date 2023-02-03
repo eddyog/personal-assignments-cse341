@@ -10,7 +10,7 @@ GET http://localhost:8080/contacts/63ce4571ad4ebdef267897fc
 
 // PRODUCTION Deploy
 ###
-GET https://personal-assignemnt.onrender.com/contacts
+GET https://personal-assignment-cse341.onrender.com
 ###
 
 # insert
