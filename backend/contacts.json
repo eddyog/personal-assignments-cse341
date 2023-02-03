@@ -1,0 +1,23 @@
+{
+  "contact": {
+    "firstName": "Eddy",
+    "lastName": "Gonzalez",
+    "email": "eddyog@gmail.com",
+    "favoriteColor": "Red",
+    "birthday": "04/04/1995"
+  },
+  "contact2": {
+    "firstName": "Cam",
+    "lastName": "Davis",
+    "email": "camDavis@gmail.com",
+    "favoriteColor": "Blue",
+    "birthday": "02/02/22"
+  },
+  "contact3": {
+    "firstName": "Walter",
+    "lastName": "Gonzalez",
+    "email": "Walter@byui.com",
+    "favoriteColor": "Blue",
+    "birthday": "05/12/97"
+  }
+}
